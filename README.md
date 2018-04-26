@@ -43,6 +43,17 @@ The responsables of production can check quickly the stats of the ongoing or com
 
 ![Screenshot](images/online/stats_quickview_for_a_job.jpg)
 
+Another view is provided to check the completed jobs following an horizontal time-line
+
+![Screenshot](images/online/unit_job_analysis.jpg)
+
+### Analysis production trends through the time
+
+The decision makers can rely on the provided analysis module to find out more about the production trends over the time by exploring more than 50 PKIs through data tables, figures and dashboard.
+
+
+![Screenshot](images/online/whole_production_analysis.jpg)
+
 
 
 
