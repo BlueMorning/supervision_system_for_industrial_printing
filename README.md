@@ -55,7 +55,7 @@ Another view is provided to check the completed jobs following an horizontal tim
 
 ![Screenshot](images/online/unit_job_analysis.jpg)
 
-### Analysis production trends over the time
+### Analyse production trends over the time
 
 The decision makers can rely on the provided analysis module to find out more about the production trends over the time by exploring more than 50 PKIs through data tables, figures and dashboard.
 
