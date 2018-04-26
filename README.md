@@ -16,4 +16,17 @@ the productivity by facilitating the decision making. The SGR system :
 
 ## Feature examples
 
+
+### Manage the jobs before production 
+
+The jobs to produce can be easily managed through this interface, the team in charge of preparing them can in 1 click change the status of a job to make it available in production for instance.
+![Screenshot](images/online/manage_jobs_to_run.jpg)
+
+The can rely on very effective fucntionalities like duplication to avoid filling out similar jobs. As a result, even a complicated job can be recorded in 1 minute.
+> The job only contains the required features to monitor the production.  
 ![Screenshot](images/online/job_details.jpg)
+
+
+
+
+
