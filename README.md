@@ -2,17 +2,16 @@
 
 ## What the system aims at solving
 The printing industry is being challenged by the increasing price of resources like paper, ink and energy meanwhile 
-clients are asking for lower prices. A part of the solution to deal with this situation is to optimise 
-the productivity. One leverage to to do so is to reduce as much as possible the resources consumed 
-as input for a same amount of output.
+clients are asking for lower prices. One solution to help deal with this situation is to optimise 
+the productivity by reducing as much as possible the resources consumed 
+as input while achieving the same amount of output.
 
 ## What the system provides
-I have implemtented a system to help this industry to deal with this situation. The SGR system provides the opportunity to improve
-the productivity by facilitating the decision making. The SGR system :
+I have implemtented a system to help this industry to deal with this situation. The SGR system provides the opportunity to improve productivity by facilitating decision making. The SGR system :
 - Provides real time production indicators to produce the required quantity and avoid wasting resources 
-- Tracks the production incidents and identify the weaknesses helping the maintenance team to prioritize their actions 
-- Allows all the teams to share the same information resulting in a better communication and organisation 
-- Helps the decision makers to refine their strategy and choice of investment by prodviding more than 50 different PKIs
+- Tracks production incidents and identifies the weaknesses helping the maintenance team to prioritise their actions 
+- Allows all teams to share the same information resulting in strong crosse-team communication and organisation 
+- Assists decision makers in refining their strategy and choice of investment by prodviding more than 50 different KPIs
 
 ## Technical stack
 I have used the .NET stack :
@@ -25,13 +24,13 @@ I have used the .NET stack :
 ## Some examples of features
 
 
-### Manage the jobs before production 
+### Job management before production 
 
-The jobs to produce can be easily managed through this interface, the team in charge of preparing them can in 1 click change the status of a job to make it available for the production team for instance.
+The jobs awaiting entry to production can be easily managed through this interface. For instance, the team in charge of preparing jobs can with a single click change the status of a job to make it available for the production team.
 
 ![Screenshot](images/online/manage_jobs_to_run.jpg)
 
-The can rely on very effective functionalities like "duplicate" to avoid filling out similar jobs. As a result, even a complicated job can be set in 1 minute.
+They can also rely on tools such as "duplicate" to avoid filling out similar jobs manually. As a result, even a complicated job can be set in 1 minute.
 
 ![Screenshot](images/online/job_details.jpg)
 
@@ -41,13 +40,13 @@ The production teams monitor in real-time the ongoing job on their rotary. The s
 
 ![Screenshot](images/online/real_time_job_supervision_for_rotary_drivers.jpg)
 
-The responsables of production can oversee in real-time the ongoing production on all the rotaries at the same time.
+Production managers and all the users who need to can oversee in real-time the ongoing production on all the rotaries at the same time.
 
 ![Screenshot](images/online/real_time_job_supervision_for_responsables.jpg)
 
-### Check the completed jobs
+### Reviewing Ongoing/Completed Jobs
 
-The responsables of production can check quickly the stats of the ongoing or completed jobs.
+ Production managers can quickly check the status of ongoing/completed jobs.
 
 ![Screenshot](images/online/stats_quickview_for_a_job.jpg)
 
@@ -57,7 +56,7 @@ Another view is provided to check the completed jobs following an horizontal tim
 
 ### Analyse production trends over the time
 
-The decision makers can rely on the provided analysis module to find out more about the production trends over the time by exploring more than 50 PKIs through data tables, figures and dashboard.
+The decision makers can rely on the provided analysis module to find out more about the production trends over the time by exploring more than 50 KPIs through data tables, figures and dashboard.
 
 ![Screenshot](images/online/whole_production_analysis.jpg)
 
