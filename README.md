@@ -26,6 +26,15 @@ The can rely on very effective fucntionalities like duplication to avoid filling
 > The job only contains the required features to monitor the production.  
 ![Screenshot](images/online/job_details.jpg)
 
+### Monitor the ongoing jobs
+
+The production teams monitor in real-time the ongoing job on their rotary. The system delivers all the indicators they need to produce the  required quantity and save resources.
+![Screenshot](images/online/real_time_job_supervision_for_rotary_drivers.jpg)
+
+The responsables of production can oversee in real-time the ongoing production on all the rotaries at the same time.
+![Screenshot](images/online/real_time_job_supervision_for_responsables.jpg)
+
+
 
 
 
