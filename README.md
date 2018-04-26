@@ -22,7 +22,7 @@ I have used the .NET stack :
 - Windows Services
 
 
-## A few feature examples
+## Some examples of features
 
 
 ### Manage the jobs before production 
