@@ -14,6 +14,14 @@ the productivity by facilitating the decision making. The SGR system :
 - Allows all the teams to share the same information in order to communicate and organise more efficiently
 - Helps the decision makers to refine their strategy and choice of investment by prodviding more than 50 different PKIs
 
+## Technical stack
+I have used the .NET stack :
+- C#, Entities, Linq
+- MSSQL Express
+- XAML and the Telerik framework for user interfaces
+- Windows Services
+
+
 ## Feature examples
 
 
@@ -47,10 +55,9 @@ Another view is provided to check the completed jobs following an horizontal tim
 
 ![Screenshot](images/online/unit_job_analysis.jpg)
 
-### Analysis production trends through the time
+### Analysis production trends over the time
 
 The decision makers can rely on the provided analysis module to find out more about the production trends over the time by exploring more than 50 PKIs through data tables, figures and dashboard.
-
 
 ![Screenshot](images/online/whole_production_analysis.jpg)
 
