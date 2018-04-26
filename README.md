@@ -20,19 +20,28 @@ the productivity by facilitating the decision making. The SGR system :
 ### Manage the jobs before production 
 
 The jobs to produce can be easily managed through this interface, the team in charge of preparing them can in 1 click change the status of a job to make it available in production for instance.
+
 ![Screenshot](images/online/manage_jobs_to_run.jpg)
 
 The can rely on very effective fucntionalities like duplication to avoid filling out similar jobs. As a result, even a complicated job can be recorded in 1 minute.
-> The job only contains the required features to monitor the production.  
+
 ![Screenshot](images/online/job_details.jpg)
 
 ### Monitor the ongoing jobs
 
 The production teams monitor in real-time the ongoing job on their rotary. The system delivers all the indicators they need to produce the  required quantity and save resources.
+
 ![Screenshot](images/online/real_time_job_supervision_for_rotary_drivers.jpg)
 
 The responsables of production can oversee in real-time the ongoing production on all the rotaries at the same time.
+
 ![Screenshot](images/online/real_time_job_supervision_for_responsables.jpg)
+
+### Check the completed jobs
+
+The responsables of production can check quickly the stats of the ongoing or completed jobs.
+
+![Screenshot](images/online/stats_quickview_for_a_job.jpg)
 
 
 
