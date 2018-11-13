@@ -2,7 +2,7 @@
 
 ## What the system aims at solving
 The printing industry is being challenged by the increasing price of resources like paper, ink and energy meanwhile 
-clients are asking for lower prices. One solution to deal with this situation is to optimise 
+clients are asking for lower prices. One solution is to optimise 
 productivity by reducing as much as possible the resources consumed 
 as input while achieving the same amount of output.
 
